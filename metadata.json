@@ -1,0 +1,6 @@
+{
+  "name": "ZapOS - Sistema de Gestão de Ordens de Serviço",
+  "description": "Sistema completo para abertura de chamados via WhatsApp e gestão centralizada em dashboard web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
